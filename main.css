@@ -1,0 +1,24 @@
+header {
+	background-color: #F5BD48;
+	margin-bottom: 30px;
+}
+
+header p {
+	margin-top: -10px;
+}
+
+.card {
+	border: 1px solid #E5E5E5;
+}
+
+.image {
+	width: 100%;
+}
+
+main div.row {
+	padding-bottom: 20px;
+}
+
+.name, .description {
+	padding-left: 20px;
+}
